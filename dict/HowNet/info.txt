@@ -1,0 +1,11 @@
+中文负面评价词语	3116
+NagativeCommentary
+
+中文负面情感词语	1254
+NagativeEmotion
+
+中文正面评价词语	3730
+PositiveCommentary
+
+中文正面情感词语	836
+PositiveEmotion
