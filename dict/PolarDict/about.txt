@@ -1,0 +1,2 @@
+PositiveWords 10222
+NegativeWords 13755
